@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Intense.ogg-c456b473972d6dc609247bb77c3a3126.oggstr"
+
+[deps]
+
+source_file="res://resource/audio/Background/Intense.ogg"
+dest_files=[ "res://.import/Intense.ogg-c456b473972d6dc609247bb77c3a3126.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
